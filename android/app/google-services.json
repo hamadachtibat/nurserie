@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "416283639052",
+    "project_id": "oman-nurseries",
+    "storage_bucket": "oman-nurseries.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416283639052:android:423bcd0f279a96a69c9d29",
+        "android_client_info": {
+          "package_name": "com.hathante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416283639052-2hskmf3bb0j8hhsl0pk4cgj4tmfbu8t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hathante",
+            "certificate_hash": "3541d4845db2559f2ad37224a0ff825be87cf5df"
+          }
+        },
+        {
+          "client_id": "416283639052-seqhlh8d2irc0hdg204prb2ds1gtilgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hathante",
+            "certificate_hash": "543451d174025469221232c1bf80721ee7bf16cd"
+          }
+        },
+        {
+          "client_id": "416283639052-cimnachs8ah6ionfv91hd1dlr0vi9njo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0xKRD7meYxPVG4AJKMcFVoyIcxlzLAPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416283639052-cimnachs8ah6ionfv91hd1dlr0vi9njo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416283639052:android:8233b2ad3a51547f9c9d29",
+        "android_client_info": {
+          "package_name": "com.hathante2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416283639052-bkds57vqc99tsbv79nnucbrfha945aue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hathante2",
+            "certificate_hash": "543451d174025469221232c1bf80721ee7bf16cd"
+          }
+        },
+        {
+          "client_id": "416283639052-vnnuob3k77c73ag9k86mn9cai9ucknqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hathante2",
+            "certificate_hash": "3541d4845db2559f2ad37224a0ff825be87cf5df"
+          }
+        },
+        {
+          "client_id": "416283639052-cimnachs8ah6ionfv91hd1dlr0vi9njo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0xKRD7meYxPVG4AJKMcFVoyIcxlzLAPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416283639052-cimnachs8ah6ionfv91hd1dlr0vi9njo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

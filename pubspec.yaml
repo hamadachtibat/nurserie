@@ -1,0 +1,112 @@
+name: Hathante
+description: A Nursery Application
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.10.5 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tags: ^0.4.9+1
+  provider: ^6.0.3
+  connectivity: ^3.0.6
+  shimmer: ^2.0.0
+
+  webview_flutter: ^3.0.4
+  touch_indicator: ^2.0.0
+
+  cloud_firestore: ^3.3.0
+  firebase_storage: ^10.3.2
+  font_awesome_flutter: ^10.1.0
+  map_launcher: ^2.2.3
+  geolocator: ^5.1.5
+  flutter_rating_bar: ^4.0.1
+  flutter_datetime_picker: ^1.5.0
+  step_progress_indicator: ^1.0.2
+  translator: ^0.1.5
+  firebase_auth: ^3.4.2
+  signature: ^5.1.0
+
+  #  flutter_appavailability: ^0.0.21
+  google_sign_in: ^5.4.0
+  shared_preferences: ^2.0.15
+  cached_network_image: ^3.2.1
+  image_picker: ^0.8.5+3
+  #google_maps_flutter: ^2.1.8
+  cupertino_icons: ^1.0.5
+  carousel_pro: ^1.0.0
+  flare_flutter: ^3.0.2
+  line_icons: ^2.0.1
+  dots_indicator: ^2.1.0
+  flutter_staggered_animations: ^1.0.0
+  sliding_up_panel: ^2.0.0+1
+  toast: ^0.3.0
+ # intl: ^0.17.0
+  http: ^0.13.4
+  share: ^2.0.4
+  md2_tab_indicator: ^1.0.2
+  easy_localization: ^3.0.1
+  flutter_email_sender: ^5.0.0
+
+  flutter_html: ^0.11.1
+  geo: ^0.3.0
+  # google_map_polyline: ^0.2.0+1
+  url_launcher: ^6.1.5
+  bottom_navy_bar: ^6.0.0
+  package_info: ^2.0.2
+  launch_review: ^3.0.0
+  latlong: ^0.6.1
+  flutter_svg: ^1.1.1+1
+  google_fonts: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/search.png
+    - assets/images/travel1.png
+    - assets/images/travel2.png
+    - assets/flr/success.flr
+    - assets/flr/load.flr
+    - assets/flr/splash.flr
+    - assets/images/travel4.png
+    - assets/images/travel5.png
+    - assets/images/travel6.png
+    - assets/images/empty.png
+    - assets/images/hotel.png
+    - assets/images/splash.png
+    - assets/images/icon.png
+    - assets/images/splash.jpeg
+    - assets/translations/
+
+  fonts:
+    - family: tajawal
+      fonts:
+        - asset: assets/fonts/Tajawal-Black.ttf
+        - asset: assets/fonts/Tajawal-Bold.ttf
+        - asset: assets/fonts/Tajawal-ExtraBold.ttf
+        - asset: assets/fonts/Tajawal-ExtraLight.ttf
+        - asset: assets/fonts/Tajawal-Light.ttf
+        - asset: assets/fonts/Tajawal-Medium.ttf
+        - asset: assets/fonts/Tajawal-Regular.ttf
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 800
+

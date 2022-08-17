@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+   <string name="app_name">Travel Hour</string>    <!-- app name that you created on developer.facebook.com -->
+   <string name="facebook_app_id">000000000</string>   <!-- app id -->
+   <string name="fb_login_protocol_scheme">fb000000000</string>     <!-- fb+app id -->
+</resources>
