@@ -84,16 +84,16 @@
         <string>itms</string>
 	</array>
 	<key>NSLocationAlwaysUsageDescription</key>
-<string>Needed to access location</string>
-<key>NSLocationWhenInUseUsageDescription</key>
-<string>Needed to access location</string>
+    <string>Needed to access location</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Needed to access location</string>
 
-<key>NSCameraUsageDescription</key>
-<string>Example usage description</string>
-<key>NSMicrophoneUsageDescription</key>
-<string>Example usage description</string>
-<key>NSPhotoLibraryUsageDescription</key>
-<string>Example usage description</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Example usage description</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Example usage description</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Example usage description</string>
 
 </dict>
 </plist>
