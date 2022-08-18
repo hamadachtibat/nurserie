@@ -4,16 +4,14 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
-	
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
-
 	<key>CFBundleName</key>
-	<string>مرشد حضانات سلطنة عَمان</string>   
+	<string>مرشد حضانات سلطنة عَمان</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -21,29 +19,29 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleURLTypes</key>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>to upload images when upload a nursery</string>
 	<array>
-		<dict>
-			<key>CFBundleTypeRole</key>
-			<string>Editor</string>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>com.googleusercontent.apps.918184553443-*************</string>      <!-- paste the revised client id from google -->
-				<string>fb000000000000</string>   <!-- fb+app id-->
-			</array>
-		</dict>
-	</array>
-
+    	<dict>
+    		<key>CFBundleTypeRole</key>
+    		<string>Editor</string>
+    		<key>CFBundleURLSchemes</key>
+    		<array/>
+    	</dict>
+    	<dict>
+    		<key>CFBundleTypeRole</key>
+    		<string>Editor</string>
+    		<key>CFBundleURLSchemes</key>
+    		<array>
+    		    <string>com.googleusercontent.apps.728888626157-0s8lrppo84irrjpetabfsv4hd90450db</string>
+    		</array>
+    	</dict>
+    </array>
 	<key>CFBundleLocalizations</key>
 	<array>
 		<string>en</string>
 		<string>ar</string>
 	</array>
-
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
-
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>fbapi</string>
@@ -53,6 +51,8 @@
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>to upload images when upload a nursery</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Need to upload image</string>
 	<key>NSMicrophoneUsageDescription</key>
@@ -88,13 +88,11 @@
     <string>Needed to access location</string>
     <key>NSLocationWhenInUseUsageDescription</key>
     <string>Needed to access location</string>
-
     <key>NSCameraUsageDescription</key>
     <string>Example usage description</string>
     <key>NSMicrophoneUsageDescription</key>
     <string>Example usage description</string>
     <key>NSPhotoLibraryUsageDescription</key>
     <string>Example usage description</string>
-
 </dict>
 </plist>
