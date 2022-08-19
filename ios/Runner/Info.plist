@@ -89,10 +89,10 @@
     <key>NSLocationWhenInUseUsageDescription</key>
     <string>Needed to access location</string>
     <key>NSCameraUsageDescription</key>
-    <string>Example usage description</string>
+    <string>to get the picture pd nurserie</string>
     <key>NSMicrophoneUsageDescription</key>
-    <string>Example usage description</string>
+    <string> we need this for nurseries voice</string>
     <key>NSPhotoLibraryUsageDescription</key>
-    <string>Example usage description</string>
+    <string>we need this to get nurserie images</string>
 </dict>
 </plist>
