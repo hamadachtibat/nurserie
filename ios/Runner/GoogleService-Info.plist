@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>416283639052-n30ian4u7rju87f1ckv2fsbpnv8fds24.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.416283639052-n30ian4u7rju87f1ckv2fsbpnv8fds24</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>416283639052-2hskmf3bb0j8hhsl0pk4cgj4tmfbu8t3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB32JocS26QVrfa5iFhbXEgV9y6TFMdUjk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>416283639052</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hath</string>
+	<key>PROJECT_ID</key>
+	<string>oman-nurseries</string>
+	<key>STORAGE_BUCKET</key>
+	<string>oman-nurseries.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:416283639052:ios:f2d8c92b112611519c9d29</string>
+</dict>
+</plist>
